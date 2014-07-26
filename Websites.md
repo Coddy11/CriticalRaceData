@@ -8,4 +8,4 @@
 This is my favorite site for accessing school demographic data, [NCES][1].
 [1]: http://nces.ed.gov/ "NCES"
 I also like reviewing residential segregation with [Social Explorer][2].
-[2]: http://www.social.explorer.com/ "Social Explorer"
+[2]: http://www.socialexplorer.com/ "Social Explorer"
